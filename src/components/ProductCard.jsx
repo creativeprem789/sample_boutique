@@ -8,7 +8,7 @@ export default function ProductCard({ product, isWishlisted, onToggleWishlist, o
   const handleWhatsApp = (e) => {
     e.stopPropagation();
     const text = encodeURIComponent(`Hi, I'm interested in ${product.name}`);
-    window.open(`https://wa.me/919773587243?text=${text}`, '_blank');
+    window.open(`https://wa.me/918804706924?text=${text}`, '_blank');
   };
 
   const handleWishlist = (e) => {

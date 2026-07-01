@@ -28,7 +28,7 @@ export default function Hero() {
           }}
         >
           <span style={{ color: 'var(--accent-rose)' }}>✦</span>
-          &nbsp;Boring Road, Patna&nbsp;
+          &nbsp;Exhibition Road, Patna&nbsp;
           <span style={{ color: 'var(--accent-rose)' }}>✦</span>
         </div>
 
@@ -49,7 +49,7 @@ export default function Hero() {
         >
           Exclusive bridal &amp; ethnic wear — curated with love, tailored to perfection.
           <br className="hidden sm:block" />
-          <span style={{ color: 'var(--accent-mauve)', fontWeight: 400 }}>Boring Road, Patna.</span>
+          <span style={{ color: 'var(--accent-mauve)', fontWeight: 400 }}>Exhibition Road, Patna.</span>
         </p>
 
         {/* ── Divider Ornament ─────────────────────────────────── */}
@@ -70,7 +70,7 @@ export default function Hero() {
           </button>
 
           <a
-            href="https://wa.me/919773587243"
+            href="https://wa.me/918804706924"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-whatsapp"

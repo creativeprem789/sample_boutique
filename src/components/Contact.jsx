@@ -101,7 +101,7 @@ export default function Contact() {
               <div>
                 <p className="text-sm font-medium mb-0.5" style={{ color: 'var(--text-primary)', fontFamily: 'var(--font-sans)', fontWeight: 500 }}>Our Location</p>
                 <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)', fontFamily: 'var(--font-sans)', fontWeight: 300 }}>
-                  Boring Road, Patna<br />Bihar — 800001, India
+                  B Block 209, AH Complex, Exhibition Road,<br />near Hotel Gargee Grand, Patna, Bihar, India
                 </p>
               </div>
             </div>
@@ -120,13 +120,13 @@ export default function Contact() {
               <div>
                 <p className="text-sm font-medium mb-0.5" style={{ color: 'var(--text-primary)', fontFamily: 'var(--font-sans)', fontWeight: 500 }}>Call Us</p>
                 <a
-                  href="tel:+919773587243"
+                  href="tel:+918804706924"
                   className="text-sm transition-colors"
                   style={{ color: 'var(--accent-rose)', fontFamily: 'var(--font-sans)', fontWeight: 400, textDecoration: 'none' }}
                   onMouseEnter={(e) => e.target.style.color = 'var(--accent-mauve)'}
                   onMouseLeave={(e) => e.target.style.color = 'var(--accent-rose)'}
                 >
-                  +91 97735 87243
+                  +91 88047 06924
                 </a>
               </div>
             </div>
@@ -134,7 +134,7 @@ export default function Contact() {
             {/* WhatsApp + Instagram */}
             <div className="flex gap-4 mt-2">
               <a
-                href="https://wa.me/919773587243"
+                href="https://wa.me/918804706924"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-whatsapp"

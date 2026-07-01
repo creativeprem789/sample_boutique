@@ -6,7 +6,7 @@ import { neu } from '../neu';
 const socialLinks = [
   { icon: Camera, label: 'Instagram', href: 'https://instagram.com/vachiboutique.patna', color: '#C13584' },
   { icon: Share2, label: 'Facebook', href: 'https://facebook.com/vachiboutiquepatna', color: '#1877F2' },
-  { icon: MessageCircle, label: 'WhatsApp', href: 'https://wa.me/919773587243', color: '#25D366' },
+  { icon: MessageCircle, label: 'WhatsApp', href: 'https://wa.me/918804706924', color: '#25D366' },
   { icon: MapPin, label: 'Pinterest', href: 'https://pinterest.com/vachiboutique', color: '#E60023' },
 ];
 
@@ -130,19 +130,19 @@ export default function Footer() {
             <ul className="flex flex-col gap-2 text-sm" style={{ color: 'var(--text-muted)', fontFamily: 'var(--font-sans)', fontWeight: 300 }}>
               <li>
                 <a
-                  href="tel:+919773587243"
+                  href="tel:+918804706924"
                   style={{ color: 'var(--text-muted)', textDecoration: 'none' }}
                   onMouseEnter={(e) => e.target.style.color = 'var(--accent-rose)'}
                   onMouseLeave={(e) => e.target.style.color = 'var(--text-muted)'}
                 >
-                  +91 97735 87243
+                  +91 88047 06924 
                 </a>
               </li>
-              <li>Boring Road, Patna</li>
-              <li>Bihar — 800001</li>
+              <li>B Block 209, AH Complex, Exhibition Road, near Hotel Gargee Grand, Patna</li>
+              <li>Bihar</li>
               <li>
                 <a
-                  href="https://wa.me/919773587243"
+                  href="https://wa.me/918804706924"
                   target="_blank"
                   rel="noopener noreferrer"
                   style={{ color: '#25D366', textDecoration: 'none', fontWeight: 400 }}

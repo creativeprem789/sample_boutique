@@ -13,7 +13,7 @@ export default function ProductModal({ product, isWishlisted, onToggleWishlist, 
     const text = encodeURIComponent(
       `Hi, I'm interested in *${product.name}*.\nSize: ${selectedSize}, Color: ${selectedColor}, Qty: ${qty}`
     );
-    window.open(`https://wa.me/919773587243?text=${text}`, '_blank');
+    window.open(`https://wa.me/918804706924?text=${text}`, '_blank');
   };
 
   const handleBackdrop = (e) => {
