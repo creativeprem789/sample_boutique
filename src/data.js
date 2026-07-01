@@ -1,4 +1,4 @@
-// ─── Celestial Boutique — Static Data ────────────────────────────────────────
+// ─── Vachi Boutique — Static Data ──────────────────────────────────────────
 
 export const categories = [
   'All',
@@ -142,7 +142,7 @@ export const whyUs = [
     id: 3,
     icon: 'Star',
     title: '5.0★ on Google',
-    text: 'Hundreds of happy brides and families trust Celestial Boutique.',
+    text: 'Hundreds of happy brides and families trust Vachi Boutique.',
   },
   {
     id: 4,
@@ -174,7 +174,7 @@ export const testimonials = [
     name: 'Meena Jaiswal',
     location: 'Delhi',
     review:
-      'The Banarasi saree I purchased for my daughter\'s wedding was exquisite. Celestial Boutique truly lives up to its name — every stitch tells a story of craftsmanship.',
+      'The Banarasi saree I purchased for my daughter\'s wedding was exquisite. Vachi Boutique truly lives up to its name — every stitch tells a story of craftsmanship.',
     rating: 5,
   },
 ];

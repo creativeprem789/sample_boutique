@@ -26,7 +26,7 @@ export default function WhyUs() {
             className="font-serif text-3xl md:text-4xl"
             style={{ color: 'var(--text-primary)', fontWeight: 500 }}
           >
-            Why Choose Celestial
+            Why Choose Vachi
           </h2>
           <div className="flex items-center justify-center gap-3 mt-3">
             <div style={{ height: '1px', width: '40px', background: 'var(--shadow-dark)' }} />

@@ -4,10 +4,10 @@ import { navLinks, categories } from '../data';
 import { neu } from '../neu';
 
 const socialLinks = [
-  { icon: Camera, label: 'Instagram', href: 'https://instagram.com/celestialboutique.patna', color: '#C13584' },
-  { icon: Share2, label: 'Facebook', href: 'https://facebook.com/celestialboutiquepatna', color: '#1877F2' },
+  { icon: Camera, label: 'Instagram', href: 'https://instagram.com/vachiboutique.patna', color: '#C13584' },
+  { icon: Share2, label: 'Facebook', href: 'https://facebook.com/vachiboutiquepatna', color: '#1877F2' },
   { icon: MessageCircle, label: 'WhatsApp', href: 'https://wa.me/919773587243', color: '#25D366' },
-  { icon: MapPin, label: 'Pinterest', href: 'https://pinterest.com/celestialboutique', color: '#E60023' },
+  { icon: MapPin, label: 'Pinterest', href: 'https://pinterest.com/vachiboutique', color: '#E60023' },
 ];
 
 const quickLinks = navLinks;
@@ -29,7 +29,7 @@ export default function Footer() {
             className="font-serif text-3xl md:text-4xl"
             style={{ color: 'var(--text-primary)', fontWeight: 500, letterSpacing: '0.05em' }}
           >
-            Celestial Boutique
+            Vachi Boutique
           </h2>
           <p
             className="text-sm mt-2 italic"
@@ -163,7 +163,7 @@ export default function Footer() {
             className="text-xs text-center"
             style={{ color: 'var(--text-muted)', fontFamily: 'var(--font-sans)', fontWeight: 300 }}
           >
-            © 2026 Celestial Boutique, Patna. All rights reserved.
+            © 2026 Vachi Boutique, Patna. All rights reserved.
           </p>
           <p
             className="text-xs text-center"

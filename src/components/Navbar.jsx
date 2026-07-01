@@ -41,7 +41,7 @@ export default function Navbar({ cartCount, wishlistCount, onCartClick }) {
                   className="font-serif text-2xl md:text-3xl tracking-wide"
                   style={{ color: 'var(--text-primary)', fontWeight: 500, letterSpacing: '0.05em' }}
                 >
-                  Celestial Boutique
+                  Vachi Boutique
                 </span>
                 <div
                   className="text-xs tracking-widest text-center hidden sm:block"
@@ -146,7 +146,7 @@ export default function Navbar({ cartCount, wishlistCount, onCartClick }) {
             {/* Logo */}
             <div className="text-center py-2">
               <div className="font-serif text-2xl" style={{ color: 'var(--text-primary)', fontWeight: 500 }}>
-                Celestial Boutique
+                Vachi Boutique
               </div>
               <div className="text-xs tracking-widest mt-1" style={{ color: 'var(--text-muted)', letterSpacing: '0.2em' }}>
                 PATNA · BIHAR

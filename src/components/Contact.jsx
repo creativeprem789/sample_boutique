@@ -80,7 +80,7 @@ export default function Contact() {
                 className="font-serif text-2xl md:text-3xl mb-1"
                 style={{ color: 'var(--text-primary)', fontWeight: 500 }}
               >
-                Celestial Boutique
+                Vachi Boutique
               </h3>
               <p className="text-sm italic" style={{ color: 'var(--accent-mauve)', fontFamily: 'var(--font-serif)', fontWeight: 300 }}>
                 Premium Ethnic &amp; Bridal Wear
@@ -144,7 +144,7 @@ export default function Contact() {
                 WhatsApp
               </a>
               <a
-                href="https://instagram.com/celestialboutique.patna"
+                href="https://instagram.com/vachiboutique.patna"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-purple"
